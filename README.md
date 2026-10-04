@@ -6,7 +6,7 @@ Projeto Integrador desenvolvido em Java Swing e MySQL para gestão de biblioteca
 
 ## Tecnologias Aplicadas
 * **Linguagem:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-* **Interface Gráfica:** Java Swing / NetBeans IDE
+* **Interface Gráfica:** Java Swing /![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 * **Banco de Dados & Conectividade:**![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white), JDBC (`mysql-connector-j`)
 
 ## Time de Desenvolvedores
